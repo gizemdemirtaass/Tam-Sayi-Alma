@@ -1,1 +1,1 @@
-# Tam-Say-Alma
+# Tam Sayi Alma
